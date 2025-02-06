@@ -9,8 +9,7 @@ This project creates an interactive 3D visualization of urban sustainability met
 2. [Features](#features)
 3. [Installation](#installation)
 4. [Usage](#usage)
-5. [Project Structure](#project-structure)
-6. [Technologies Used](#technologies-used)
+5. [Technologies Used](#technologies-used)
 ---
 
 ## Project Overview
@@ -37,57 +36,6 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/Suliman623/urban-sustainability-ai.git
    cd urban-sustainability-ai
-   ```
-
-2. **Set up a virtual environment**:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-   ```
-
-3. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Run the Jupyter Notebook**:
-   ```bash
-   jupyter notebook
-   ```
-   Open the notebook (`Urban_Sustainability_AI.ipynb`) to explore the code and visualizations.
-
-5. **Run the Dash app** (optional):
-   ```bash
-   python app.py
-   ```
-   Visit `http://127.0.0.1:8050` in your browser to interact with the web app.
-
----
-
-## Usage
-
-### Jupyter Notebook
-- Open the notebook (`Urban_Sustainability_AI.ipynb`) to explore the code, train the machine learning model, and generate 3D visualizations.
-- The notebook includes detailed comments and explanations for each step.
-
-### Dash Web App
-- Run `app.py` to launch the interactive web app.
-- Use the app to explore current and predicted sustainability metrics in an interactive 3D environment.
-
----
-
-## Project Structure
-
-```
-urban-sustainability-ai/
-├── data/                   # Sample datasets
-├── notebooks/              # Jupyter notebooks
-│   └── Urban_Sustainability_AI.ipynb
-├── app.py                  # Dash web app
-├── requirements.txt        # Dependencies
-├── README.md               # Project documentation
-└── assets/                 # Images and other assets
-```
 
 ---
 
