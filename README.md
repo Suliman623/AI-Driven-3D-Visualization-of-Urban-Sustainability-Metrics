@@ -11,7 +11,6 @@ This project creates an interactive 3D visualization of urban sustainability met
 4. [Usage](#usage)
 5. [Project Structure](#project-structure)
 6. [Technologies Used](#technologies-used)
-7. [Contributing](#contributing)
 ---
 
 ## Project Overview
