@@ -38,5 +38,5 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/urban-sustainability-ai.git
+   git clone https://github.com/Suliman623/urban-sustainability-ai.git
    cd urban-sustainability-ai
