@@ -126,4 +126,4 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 For questions or feedback, feel free to reach out:
 
-- **Your Name**: [Your Email](sulimangorsi623@gmail.com)
+- **Muhammad Suliman**: (sulimangorsi623@gmail.com)
